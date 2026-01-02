@@ -4,43 +4,43 @@ BiMemory is a C++-based memory game that challenges players to test and improve 
 
 ## Features
 
-🧠 Binary-based memory challenge
+- 🧠 Binary-based memory challenge
 
-⏱️ Numbers appear briefly and then disappear
+- ⏱️ Numbers appear briefly and then disappear
 
-📈 Progressive difficulty with increasing digits
+- 📈 Progressive difficulty with increasing digits
 
-❤️ Three lives per game session
+- ❤️ Three lives per game session
 
-🎯 Enhances concentration and logical thinking
+- 🎯 Enhances concentration and logical thinking
 
 ## Built With
-C++
+- C++
 
 ## Who is this for?
 
-Beginners learning C++
+- Beginners learning C++
 
-Students interested in game logic and problem-solving
+- Students interested in game logic and problem-solving
 
-Anyone who enjoys memory-based games
+- Anyone who enjoys memory-based games
 
 ## How to run this project
 
-Download or clone the repository
+- Download or clone the repository
 
-Compile the C++ source file
+- Compile the C++ source file
 
-Run the executable in the terminal
+- Run the executable in the terminal
 
 Start playing 🎮
 
 ## Future Improvements
 
-Convert into a web-based game
+- Convert into a web-based game
 
-Develop a mobile version
+- Develop a mobile version
 
-Add graphical interface and animations
+- Add graphical interface and animations
 
-Enhance overall gameplay experience
+- Enhance overall gameplay experience
